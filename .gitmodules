@@ -1,0 +1,18 @@
+[submodule "hw01"]
+	path = hw01
+	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/js/homeworks/01-warmup.git
+[submodule "hw02"]
+	path = hw02
+	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/js/homeworks/02-phonebook.git
+[submodule "hw03"]
+	path = hw03
+	url = https://gitlab.com/yandex-courses/frontend/ifmo/2019-2020/js/homeworks/03-robbery
+[submodule "hw04"]
+	path = hw04
+	url = https://gitlab.com/yandex-courses/frontend/ifmo/2019-2020/js/homeworks/04-pub-sub
+[submodule "hw05"]
+	path = hw05
+	url = https://gitlab.com/yandex-courses/frontend/ifmo/2019-2020/js/homeworks/05-marriage
+[submodule "hw06"]
+	path = hw06
+	url = https://gitlab.com/yandex-courses/frontend/ifmo/2019-2020/js/homeworks/06-weather
