@@ -16,3 +16,6 @@
 [submodule "hw06"]
 	path = hw06
 	url = https://gitlab.com/yandex-courses/frontend/ifmo/2019-2020/js/homeworks/06-weather
+[submodule "exam"]
+	path = exam
+	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/js/exam.git
