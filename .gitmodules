@@ -1,21 +1,21 @@
-[submodule "hw01"]
-	path = hw01
-	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/js/homeworks/01-warmup.git
-[submodule "hw02"]
-	path = hw02
-	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/js/homeworks/02-phonebook.git
-[submodule "hw03"]
-	path = hw03
-	url = https://gitlab.com/yandex-courses/frontend/ifmo/2019-2020/js/homeworks/03-robbery
-[submodule "hw04"]
-	path = hw04
-	url = https://gitlab.com/yandex-courses/frontend/ifmo/2019-2020/js/homeworks/04-pub-sub
-[submodule "hw05"]
-	path = hw05
-	url = https://gitlab.com/yandex-courses/frontend/ifmo/2019-2020/js/homeworks/05-marriage
-[submodule "hw06"]
-	path = hw06
-	url = https://gitlab.com/yandex-courses/frontend/ifmo/2019-2020/js/homeworks/06-weather
+[submodule "hw01-warmup"]
+	path = hw01-warmup
+	url = git@github.com:cannor147/itmo-js-hw01-warmup.git
+[submodule "hw02-phonebook"]
+	path = hw02-phonebook
+	url = git@github.com:cannor147/itmo-js-hw02-phonebook.git
+[submodule "hw03-robbery"]
+	path = hw03-robbery
+	url = git@github.com:cannor147/itmo-js-hw03-robbery.git
+[submodule "hw04-pub-sub"]
+	path = hw04-pub-sub
+	url = git@github.com:cannor147/itmo-js-hw04-pub-sub.git
+[submodule "hw05-marriage"]
+	path = hw05-marriage
+	url = git@github.com:cannor147/itmo-js-hw05-marriage.git
+[submodule "hw06-weather"]
+	path = hw06-weather
+	url = git@github.com:cannor147/itmo-js-hw06-weather.git
 [submodule "exam"]
 	path = exam
-	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/js/exam.git
+	url = git@github.com:cannor147/itmo-js-exam.git
